@@ -1,5 +1,4 @@
-<center>mk</center> <br>
-== <br>
+#mk 
 ## This is my backup configuration file
 
 
